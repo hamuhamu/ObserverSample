@@ -1,0 +1,4 @@
+ObserverSample
+==============
+
+Observerパターンのサンプル
